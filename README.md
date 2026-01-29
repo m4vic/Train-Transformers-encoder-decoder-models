@@ -1,4 +1,4 @@
-# Transformer-101  
+# Train Transformer encoder and decoder
 **From-Scratch Encoder & Decoder Transformer Models**
 
 ---

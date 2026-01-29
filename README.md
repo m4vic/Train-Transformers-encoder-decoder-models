@@ -48,8 +48,12 @@ Each model has its own sub-README with full details.
 
 ## Educational Context
 
-This project was built as a deep dive into Transformer internals.  
+This project was built as a deep dive into Transformer internals.
+
+
 A full encoder walkthrough (math + code) is explained on a YouTube channel (Hindi).
+https://youtube.com/playlist?list=PLSZTCcoNvltkFZo1acLDmGUk32ROGgW_f&si=X6xFs95iKsCxHEmX
+
 
 ---
 
